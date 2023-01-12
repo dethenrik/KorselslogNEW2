@@ -1,0 +1,11 @@
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\bin\Debug\winformKørselslog.exe.config
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\bin\Debug\winformKørselslog.exe
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\bin\Debug\winformKørselslog.pdb
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\obj\Debug\winformKørselslog.csproj.AssemblyReference.cache
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\obj\Debug\winformKørselslog.csproj.SuggestedBindingRedirects.cache
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\obj\Debug\winformKørselslog.Form1.resources
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\obj\Debug\winformKørselslog.Properties.Resources.resources
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\obj\Debug\winformKørselslog.csproj.GenerateResource.cache
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\obj\Debug\winformKørselslog.csproj.CoreCompileInputs.cache
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\obj\Debug\winformKørselslog.exe
+C:\Users\alman\source\repos\winformKørselslog\winformKørselslog\obj\Debug\winformKørselslog.pdb
